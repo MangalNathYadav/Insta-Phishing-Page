@@ -1,5 +1,5 @@
 # Insta-Phishing-Page
-Instagram Phising Page 
+Instagram Phishing Page 
 
 A phishing page for instagram 
 soon it will available...
