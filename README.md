@@ -5,6 +5,7 @@ A phishing page for instagram
 https://igphish.netlify.app/
 visit there to see the website
 
+<blockquote> <img src="https://github.com/MangalNathYadav/Insta-Phishing-Page/blob/main/image_2022-03-26_191616.png" ></img></blockquote>
 <hr>
 <h1> How to host it for phishing</h1>
 <h5> Step 1- </h5> 
